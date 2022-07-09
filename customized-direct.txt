@@ -1,0 +1,6 @@
+payload:
+  - '+.steamstatic.com'
+  - '+.steampowered.com'
+  - '+.internetbrands.com'
+  - 'yacd.haishan.me'
+  - 'clash.razord.top'
