@@ -6,3 +6,4 @@ payload:
   - 'clash.razord.top'
   - 'steam-chat.com'
   - 'steamcommunity.com'
+  - '+.baidu.com'
