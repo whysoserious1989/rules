@@ -7,3 +7,4 @@ payload:
   - 'steam-chat.com'
   - 'steamcommunity.com'
   - '+.baidu.com'
+  - '+.wegamex.com.hk'
