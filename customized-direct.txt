@@ -8,3 +8,4 @@ payload:
   - 'steamcommunity.com'
   - '+.baidu.com'
   - '+.wegamex.com.hk'
+  - '+.trace.qq.com'
