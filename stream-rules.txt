@@ -214,7 +214,7 @@ payload:
   - 'babyzone.com'
   - 'bam.nr-data.net'
   - 'beautyandthebeastmusical.co.uk'
-  - 'braze.com'
+  - '+.braze.com'
   - 'cdn.optimizely.com'
   - 'cdn.registerdisney.go.com'
   - 'cdn.unid.go.com'
