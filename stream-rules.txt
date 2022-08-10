@@ -1,4 +1,6 @@
 payload:
+  - '+.disney-plus.net'
+  - '+.bamgrid.com'
   - 'abema.io'
   - 'abema.tv'
   - 'adx.promo'
